@@ -18,10 +18,4 @@ end
 projects
 end
 
-[project1, project2, project3, project4]
-
-
-
-
-
 #create_project_hash
